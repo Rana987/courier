@@ -12,8 +12,6 @@ mvn clean install
 mvn spring-boot:run
 
 == URL of App:
+http://localhost:8080/
 
-|===
-| lokal| http://localhost:8080/
-|===
 
